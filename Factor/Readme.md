@@ -5,4 +5,6 @@ This type of design pattern comes under creational pattern as this pattern provi
 In Factory pattern, 
 we create object without exposing the creation logic to the client and refer to newly created object using a common interface.
 </b>
+
+
 ![](https://www.tutorialspoint.com/design_pattern/images/factory_pattern_uml_diagram.jpg)
